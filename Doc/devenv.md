@@ -1,4 +1,4 @@
-- nuget packageを取ってくるコマンド  
+- nuget packageを取ってくるコマンド  
 のまえにNugetパッケージ復元の有効化を行う（対象のslnで
 ```
 cd {package.configが入っているフォルダ}
