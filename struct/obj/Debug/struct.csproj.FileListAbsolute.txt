@@ -1,0 +1,5 @@
+D:\github\me\struct\bin\Debug\@struct.exe.config
+D:\github\me\struct\bin\Debug\@struct.exe
+D:\github\me\struct\bin\Debug\@struct.pdb
+D:\github\me\struct\obj\Debug\@struct.exe
+D:\github\me\struct\obj\Debug\@struct.pdb
