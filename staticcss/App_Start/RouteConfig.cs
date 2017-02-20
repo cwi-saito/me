@@ -16,8 +16,8 @@ namespace staticcss
             // 静的cssを返すルーティング
             routes.MapRoute(
                 "Stylesheet",
-                "Content/Index/{file}",
-                new { controller = "Content", action = "Index", file = UrlParameter.Optional }
+                "Content/{action}/{file}",
+                new { controller = "Content", action = "Css", file = UrlParameter.Optional }
             );
 
             routes.MapRoute(
